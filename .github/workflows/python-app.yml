@@ -7,11 +7,12 @@ on:
   schedule:
     - cron: '47 16 * * *'
   push:
-    - get-price-info.py
-    - '.github/workflow/*.yml'
-  branches: [ "master" ]
-  tags-ignore:
-    - "*"
+    branches: [ "master" ]
+    tags-ignore:
+      - "*"
+    path:
+      - get-price-info.py
+      - '.github/workflow/*.yml'
 
 env:
   TZ: "Asia/Hong_Kong"
