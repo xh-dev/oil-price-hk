@@ -26,7 +26,7 @@ jobs:
     - name: Test should run
       id: should_run
       run: |
-        if [[ "${{ github.event.head_commit.message }} == "auto update" ]]; then echo "true" else echo "false" fi
+        if [[ "${{ github.event.head_commit.message }}" == "auto update" ]]; then echo "true" else echo "false" fi
     - name: Install dependencies
       if: ${{ needs.should_run.outputs == 'true' }}
       run: |
