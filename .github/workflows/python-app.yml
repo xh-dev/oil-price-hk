@@ -26,7 +26,7 @@ jobs:
     - name: Test should run
       id: should_run
       run: |
-        if [[ "${{ github.event.head_commit.message }}" == "auto update" ]]; then echo "SKIPPING=false"; else echo "SKIPPING=true"; fi
+        echo SKIPPING=$(if [[ "${{ github.event.head_commit.message }}" == "auto update" ]]; then echo "false"; else echo "true"; fi) >> $GITHUB_OUTPUT
     - name: Install dependencies
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
