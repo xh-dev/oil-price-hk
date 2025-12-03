@@ -4,10 +4,15 @@
 name: Python application
 
 on:
+  schedule:
+    - cron: '38 10 * * *'
   push:
-    branches: [ "dev" ]
-  pull_request:
-    branches: [ "dev" ]
+    - get-price-info.py
+    - '.github/workflow/*.yml'
+  branches: [ "master" ]
+  tags-ignore:
+    - "*"
+
 
 permissions:
   contents: write
