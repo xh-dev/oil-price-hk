@@ -45,5 +45,5 @@ jobs:
         git pull origin
         git add price-info.json
         git commit -m "auto update"
-        git push origin
+        git push
     
