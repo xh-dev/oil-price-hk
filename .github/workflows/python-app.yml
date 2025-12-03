@@ -39,6 +39,8 @@ jobs:
     - name: git operation
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git --version
         git pull origin
         git add price-info.json
