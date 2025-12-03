@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: '47 16 * * *'
+    - cron: '58 10 * * *'
   push:
     branches: [ "master" ]
     tags-ignore:
@@ -13,9 +13,6 @@ on:
     path:
       - get-price-info.py
       - '.github/workflow/*.yml'
-
-env:
-  TZ: "Asia/Hong_Kong"
 permissions:
   contents: write
 

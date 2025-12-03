@@ -61,8 +61,6 @@ data = [{"name": item.select_one("div>div.blr__title>strong").text, "value":item
 for d in data:
     recs.update({d['name']:d['value']})
 
-# sino=recs['Sinopec-SINO X Power']
-
 def find_pump_price(elem):
     pump_price=elem.select_one("div.panel >  div.panel__heading>span>span.panel__heading-text").text
     pump_price=pump_price.replace("\r","")
@@ -72,30 +70,6 @@ def find_pump_price(elem):
     return float(matcher['price'])
 
 pump_prices = {key: find_pump_price(recs[key]) for key in recs}
-# print(pump_prices)
-    
-
-# body = sino.select_one("div.blr__body > div.blr__panels > div.panel-group--discount")
-# panels=[]
-# for item in body.select("div.panel"):
-#     panel_heading = item.select_one("div.panel__heading > a > span.panel__heading-text")
-#     if panel_heading is None:
-#         continue
-
-#     heading=panel_heading.text
-#     v = {}
-#     if heading == 'Designated Station Discount':
-#         for i in item.select("div.panel__content.ckec >p"):
-#             print(i.text)
-
-#     panels.append({"name":panel_heading.text, "value": v})
-# print(panels)
-    
-# print(sino.select("div.panel__heading > a > span.panel__heading-text"))
-
-# print(pump_price)
-# print(soup.select("div#loadResult>div>div.blr__inner"))
-# print(rs.text)
 
 rs = s.get("https://oil-price.consumer.org.hk/en/weekly-discount")
 soup = BeautifulSoup(rs.text, 'html.parser')
@@ -111,18 +85,12 @@ for item in soup.select("table.tb__table.tb__headtable>thead>tr>th.tb__cell>div.
     last_date=d
     dates.append(last_date)
 
-# print(dates)
-# exit(0)
-
 all={}
 for item in soup.select("table.tb__table.tb__item"):
     full_name = item['title'].strip()
     price = pump_prices[full_name.replace(" - ","-").split("(")[0].strip()]
-    # print(item['title'])
     company=full_name.split(' - ')[0]
-    # print(company)
     product=full_name.split(' - ')[1]
-    # print(product)
     trs = item.select("tbody.tb__tbody >tr")
     discounts=[]
     all[full_name]={
@@ -137,7 +105,6 @@ for item in soup.select("table.tb__table.tb__item"):
         td_subhead = tr.select_one("td.tb__subhead")
         if td_subhead is not None:
             discount_name=td_subhead.text
-            # print("Processing: ", discount_name)
         td_cells = tr.select("td.tb__cell")
         discount=[]
         for td_cell in td_cells:
@@ -146,7 +113,6 @@ for item in soup.select("table.tb__table.tb__item"):
             if discount_name == "Walk-in Discount":
                 t=detail.text
                 value = float(re.match("-\\$(\\d+\\.\\d+)", t)[1])
-                # print("walkin", value)
                 for i in range(0,cs):
                     discount.append({
                         "product": item['title'],
@@ -161,7 +127,6 @@ for item in soup.select("table.tb__table.tb__item"):
                         discount.append(None)
                 else:
                     value = detail.text
-                    # print(value)
                     type_of_discount=None
                     matcher=re.match("^Discount of \\$(\\d+\\.\\d{2})/L \\(Applicable to purchases of \\$(\\d+\\.{0,1}\\d{0,2}) or more after the discount\\)$", value.strip())
                     type_of_discount = None if matcher is None else "discount_for_specific_station"
@@ -213,26 +178,21 @@ for item in soup.select("table.tb__table.tb__item"):
                         discount.append(None)
                 else:
                     t=detail.text
-                    # print(t)
                     type_of_discount=None
                     matcher = re.match("^([\\w ]+) Credit Card holders can enjoy \\$(\\d+\\.{0,1}\\d{0,2})/L instant discount", t.strip())
                     type_of_discount = None if matcher is None else "Specific Credit Card"
 
                     if type_of_discount is None:
                         matcher = re.match("^Purchasing every \\$(\\d+\\.{0,1}\\d{0,2}) of petrol \\(after discount\\) with Mastercard, customers can redeem \\$(\\d+\\.{0,1}\\d{0,2}) worth of extra same type of petrol$", t.strip())
-                        # print(matcher)
                         type_of_discount = None if matcher is None else "Master Card with minimum purchase"
 
                     if type_of_discount is None:
                         matcher = re.match("^([\\w ]+) cardholders can enjoy the extra instant petrol discount of \\$(\\d+\\.{0,1}\\d{0,2})/L$", t.strip())
-                        # print(matcher)
                         type_of_discount = None if matcher is None else "Specific Credit Card"
                     
                     if type_of_discount == "Specific Credit Card":
-                        # print(matcher)
                         credit_card=matcher[1]
                         value = float(matcher[2])
-                        # print("walkin", value)
                         for i in range(0,cs):
                             discount.append({
                                 "product": item['title'],
@@ -275,7 +235,6 @@ for item in soup.select("table.tb__table.tb__item"):
                                 "criteria":[
                                 ],
                             })
-
             elif discount_name == "Membership Card Promotion":
                 if detail is None:
                     for i in range(0,cs):
@@ -306,7 +265,6 @@ for item in soup.select("table.tb__table.tb__item"):
                     if type_of_discount is None:
                         matcher = re.match("^Shell GO\\+ members can earn (\\d+) (Shell ){0,1}GO\\+ Point for every litre of Shell (V-Power Racing|FuelSave Unleaded) purchase( \\(.*\\)){0,1}$", t)
                         type_of_discount = None if matcher is None else "Shell GO+"
-                    # print(type_of_discount)
 
                     if type_of_discount == "X card":
                             earn_points=int(matcher[1])
@@ -328,13 +286,12 @@ for item in soup.select("table.tb__table.tb__item"):
                                 for i in range(from_num, to_num+1):
                                     d[WeekdayConverter.str_con(i)] = int(matcher[1])
                             
-                            # print(detail)
                             def get_locations():
                                 d = detail['title'].replace("and",", ")
                                 pre = "RemarkBased on discounted price.  This promotion is not applicable at "
                                 suf = " stations."
                                 if not d.startswith(pre) and not d.endswith(suf):
-                                    raise Exception("zzzz")
+                                    raise Exception(f"Prefix[{pre}] or suffix[{sub}] not matching: {d}")
                                 d = d[len(pre):len(d)-len(suf)]
                                 return [dd.strip() for dd in d.split(", ") if dd.strip() != '']
                             locations = get_locations()
@@ -360,7 +317,6 @@ for item in soup.select("table.tb__table.tb__item"):
                             d = {}
                             for s in special_weighting_str.split(";"):
                                 s=s.strip()
-                                # print(s)
                                 matcher = re.match("^(\\d)X points on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)", s)
                                 if matcher is not None:
                                     d[matcher[2]] = int(matcher[1])
@@ -408,7 +364,6 @@ for item in soup.select("table.tb__table.tb__item"):
                             d = {}
                             for s in special_weighting_str.split(";"):
                                 s=s.strip()
-                                # print(s)
                                 matcher = re.match("^(\\d)X points on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)", s)
                                 if matcher is not None:
                                     d[matcher[2]] = int(matcher[1])
@@ -443,7 +398,6 @@ for item in soup.select("table.tb__table.tb__item"):
                                 special_weighting_str = special_weighting_str[1:len(special_weighting_str)-1]
                                 for s in special_weighting_str.split(";"):
                                     s=s.strip()
-                                    # print(s)
                                     matcher = re.match("^(\\d)X points on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)", s)
                                     if matcher is not None:
                                         d[matcher[2]] = int(matcher[1])*point
@@ -493,37 +447,15 @@ for item in soup.select("table.tb__table.tb__item"):
                             })
                     else:
                         print(detail.text)
-                        raise Exception('yyy')
-
+                        raise Exception('Not expected discount type')
             else:
-                # print("Processing cell: ",td_cell)
-                # for i in range(0,cs):
-                #     discount.append(None)
-                raise Exception("xxxx")
-            # print("===")
+                raise Exception(f"Not expected dicount name: {discount_name}")
         for index, d in enumerate(discount):
             if d is not None:
                 d['date']=dates[index]
             
 
-        # print(json.dumps(discount, indent=2, default=str))
         discounts.append(discount)
         discount=[]
         
 print(json.dumps(all, indent=2, default=str))
-        
-        
-# for item in soup.select("table"):
-#     print(item.attr("title"))
-# payload={
-#     "auto_fuel_type": ["regular-unleaded-gasoline", "premium-unleaded-gasoline"],
-#     "company": [":company:11:", ":company:12:", ":company:14:", ":company:9765:", ":company:13:"],
-#     # "discount_type": ["walkin","location_offer","credit_card","membership","others"]
-#     "discount_type": ["location_offer"]
-# }
-# rs = s.post("https://oil-price.consumer.org.hk/en/weekly-search", headers={
-#     "Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
-#     "Referer":"https://oil-price.consumer.org.hk/en/weekly-discount",
-#     "X-Requested-With": "XMLHttpRequest"
-# }, data=payload)
-# print(rs.text)
