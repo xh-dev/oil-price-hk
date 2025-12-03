@@ -36,12 +36,16 @@ jobs:
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
         python get-price-info.py > price-info.json
-    - name: git operation
+    # - name: git operation
+    #   if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
+    #   run: |
+    #     git add price-info.json
+    #     git commit -m "auto update"
+    #     git push
+    - uses: stefanzweifel/git-auto-commit-action@v5
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add price-info.json
-        git commit -m "auto update"
-        git push
-    
+      name: Commit and push changes
+      with:
+        commit_message: "auto update"
+        # push_options: '--force'
+        # No explicit repository URL, using GITHUB_TOKEN by default 
