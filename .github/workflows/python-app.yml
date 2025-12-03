@@ -41,8 +41,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git --version
-        git pull origin
         git add price-info.json
         git commit -m "auto update"
         git push
