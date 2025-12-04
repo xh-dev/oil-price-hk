@@ -11,7 +11,8 @@ on:
     tags-ignore:
       - "*"
     path:
-      - get-price-info.py
+      - '*.py'
+      - '*.sh'
       - '.github/workflow/*.yml'
 permissions:
   contents: write
@@ -39,7 +40,7 @@ jobs:
     - name: Run script
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
-        python get-price-info.py > price-info.json
+        ./run.sh
     - name: git operation
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |

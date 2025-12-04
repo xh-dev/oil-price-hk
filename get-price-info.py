@@ -454,7 +454,6 @@ for item in soup.select("table.tb__table.tb__item"):
             if d is not None:
                 d['date']=dates[index]
                 d['date_of_week']=d['date'].strftime('%a')
-                discounts.append(discount)
+                discounts.append(d)
         discount=[]
-        
 print(json.dumps(all, indent=2, default=str))
