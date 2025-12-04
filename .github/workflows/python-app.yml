@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: '1 50 * * *'
+    - cron: '50 1 * * *'
   push:
     branches: [ "master" ]
     tags-ignore:
