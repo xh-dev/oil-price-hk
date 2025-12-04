@@ -61,6 +61,8 @@ def replacing_md(file, block, data_to_replace):
         f.write(s)
 
 replacing_md("README.md","today_s_info",build_table(all))
-replacing_md("README.md","last_update_time",f"Last updatetime: {str(dt.datetime.now().strftime("%Y-%m-%d"))}")
+
+last_modified_str=f"Last updatetime: {str(dt.datetime.now().strftime("%Y-%m-%d"))}"
+replacing_md("README.md","last_update_time", last_modified_str)
 
     
