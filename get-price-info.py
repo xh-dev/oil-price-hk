@@ -143,8 +143,22 @@ for item in soup.select("table.tb__table.tb__item"):
                         locations = td_cell.select_one("div.tooltipster__body").text.replace("\r","")
                         vvv=[]
                         for area in [i for i in locations.split("\n") if i.strip() != '']:
+                            print(area)
                             v=area.replace(" and ",", ").strip()
-                            [vvv.append(vv.strip()) for vv in re.match("^(Kowloon|New Territories): ([\\w, ]+)[,]{0,1} stations", v)[2].split(",") if vv.strip() != '']
+                            def try_match(input):
+                                input = input.strip()
+                                if input == "":
+                                    return []
+                                
+                                else:
+                                    matcher = re.match("^(Kowloon|New Territories): ([\\w, ]+)[,]{0,1} stations", input)
+                                    if matcher is not None:
+                                        return matcher[2].split(",")
+                                    matcher = re.match("^(\\w+|(\\w+,)+\\w+)$", input.replace(" ",""))
+                                    if matcher is not None:
+                                        return input.replace(", ",",").split(",")
+                                    raise Exception(f"Failed to extract location: {input}")
+                            [vvv.append(vv.strip()) for vv in try_match(v) if vv.strip() != '']
                         for i in range(0,cs):
                             discount.append({
                                 "product": item['title'],
