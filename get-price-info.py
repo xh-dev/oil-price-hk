@@ -143,7 +143,6 @@ for item in soup.select("table.tb__table.tb__item"):
                         locations = td_cell.select_one("div.tooltipster__body").text.replace("\r","")
                         vvv=[]
                         for area in [i for i in locations.split("\n") if i.strip() != '']:
-                            print(area)
                             v=area.replace(" and ",", ").strip()
                             def try_match(input):
                                 input = input.strip()
