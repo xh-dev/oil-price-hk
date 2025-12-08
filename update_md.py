@@ -65,8 +65,11 @@ def replacing_md(file, block, data_to_replace):
 replacing_md("README.md","today_s_info",build_table(get_data("today-price-info.json")))
 replacing_md("README.md","tomorrow_s_info",build_table(get_data("tomorrow-price-info.json")))
 replacing_md("README.md","overmorrow_s_info",build_table(get_data("overmorrow-price-info.json")))
+replacing_md("README.md","fourth_s_info",build_table(get_data("fourth-price-info.json")))
+replacing_md("README.md","fifth_s_info",build_table(get_data("fifth-price-info.json")))
+replacing_md("README.md","sixth_s_info",build_table(get_data("sixth-price-info.json")))
+replacing_md("README.md","seventh_s_info",build_table(get_data("seventh-price-info.json")))
 
-last_modified_str=f"Last updatetime: {str(dt.datetime.now().strftime('%Y-%m-%d'))}"
+last_modified_str=f"Last updatetime: {str(dt.datetime.now().strftime('%Y-%m-%d (%a)'))}"
 replacing_md("README.md","last_update_time", last_modified_str)
-
     
