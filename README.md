@@ -1,4 +1,23 @@
 # oil-price-hk
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<div>{message}</div>
+<script>
+    const {createApp, ref} = Vue
+    createApp({
+        setup(){
+            const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+            const d = new Date()
+            // const message = ref('hello vue!')
+            const message = ref(weekday[d.getDay()])
+            return {
+                message
+            }
+        }
+    }).mount('#app')
+</script>
+
+
 <!-- last_update_time start -->
 <!-- last_update_time end -->
 
