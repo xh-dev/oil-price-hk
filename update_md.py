@@ -1,6 +1,7 @@
 import datetime as dt
 from zoneinfo import ZoneInfo
 import json
+hkt=ZoneInfo("Asia/Hong_Kong")
 
 def get_data(file):
     data = json.loads(open(file, "r", encoding='utf-8').read())
@@ -70,6 +71,6 @@ replacing_md("README.md","fifth_s_info",build_table(get_data("fifth-price-info.j
 replacing_md("README.md","sixth_s_info",build_table(get_data("sixth-price-info.json")))
 replacing_md("README.md","seventh_s_info",build_table(get_data("seventh-price-info.json")))
 
-last_modified_str=f"Last updatetime: {str(dt.datetime.now().strftime('%Y-%m-%d (%a)'))}"
+last_modified_str=f"Last updatetime: {str(dt.datetime.now(tz=hkt).strftime('%Y-%m-%d (%a)'))}"
 replacing_md("README.md","last_update_time", last_modified_str)
     
