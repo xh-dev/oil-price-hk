@@ -1,0 +1,92 @@
+[
+  {
+    "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 10.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "PetroChina - Futuro Premium (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 9.8,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 9.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 8.2,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Esso - Synergy Extra petrol (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 8.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Sinopec - SINO X Power (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 6.2,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  },
+  {
+    "product": "Sinopec - SINO Power (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 6.0,
+    "date": "2025-12-12 00:00:00+08:00",
+    "date_of_week": "Fri"
+  }
+]
