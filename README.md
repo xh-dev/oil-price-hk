@@ -6,9 +6,27 @@ Last updatetime: 2025-12-14 (Sun)
 
 Daily oil price info from hong kong consumer council
 
-## Today Oil Info
+# Daily Oil Price Info
+
+<!-- overall_price_info start -->
+## Official Oil Price
+| company | product | price|
+| --- | --- | ---|
+| Sinopec | SINO Power (Standard Petrol) | $28.89 / L|
+| Sinopec | SINO X Power (Premium Petrol) | $30.69 / L|
+| PetroChina | VitaGold Unleaded (Standard Petrol) | $28.89 / L|
+| PetroChina | Futuro Premium (Premium Petrol) | $30.69 / L|
+| Caltex | Gold with Techron® (Standard Petrol) | $28.89 / L|
+| Caltex | Platinum with Techron® (Premium Petrol) | $30.69 / L|
+| Esso | Synergy Extra petrol (Standard Petrol) | $28.89 / L|
+| Esso | Synergy Supreme+ premium petrol (Premium Petrol) | $30.69 / L|
+| Shell | Shell FuelSave Unleaded (Standard Petrol) | $28.89 / L|
+| Shell | Shell V-Power Racing (Premium Petrol) | $30.69 / L|
+
+<!-- overall_price_info end -->
 
 <!-- today_s_info start -->
+## 2025-12-14 (Sun)
 | product | value | locations|
 | --- | --- | ---|
 | Sinopec - SINO X Power (Premium Petrol) | 10.40 | any|
@@ -24,9 +42,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- today_s_info end -->
 
-## Tomorrow Oil Info
-
 <!-- tomorrow_s_info start -->
+## 2025-12-15 (Mon)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Sham Shui Po,Kam Tin,Fanling|
@@ -43,9 +60,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- tomorrow_s_info end -->
 
-## Overmorrow Oil Info
-
 <!-- overmorrow_s_info start -->
+## 2025-12-16 (Tue)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Sham Shui Po,Kam Tin,Fanling|
@@ -62,9 +78,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- overmorrow_s_info end -->
 
-## Fourth Oil Info
-
 <!-- fourth_s_info start -->
+## 2025-12-17 (Wed)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Sham Shui Po,Kam Tin,Fanling|
@@ -81,9 +96,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- fourth_s_info end -->
 
-## Fifth Oil Info
-
 <!-- fifth_s_info start -->
+## 2025-12-18 (Thu)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Sham Shui Po,Kam Tin,Fanling|
@@ -100,9 +114,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- fifth_s_info end -->
 
-## Sixth Oil Info
-
 <!-- sixth_s_info start -->
+## 2025-12-19 (Fri)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - Futuro Premium (Premium Petrol) | 9.80 | any|
@@ -118,9 +131,8 @@ Daily oil price info from hong kong consumer council
 
 <!-- sixth_s_info end -->
 
-## Seventh Oil Info
-
 <!-- seventh_s_info start -->
+## 2025-12-20 (Sat)
 | product | value | locations|
 | --- | --- | ---|
 | Sinopec - SINO X Power (Premium Petrol) | 10.40 | any|

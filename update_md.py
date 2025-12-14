@@ -2,9 +2,38 @@ import datetime as dt
 from zoneinfo import ZoneInfo
 import json
 hkt=ZoneInfo("Asia/Hong_Kong")
+base_dir='json-data'
+
+
+def get_overall_data(file):
+    data = json.loads(open(f"{base_dir}/{file}", "r", encoding='utf-8').read())
+    title = f"Official Oil Price"
+    all = []
+    for d in data:
+        dd = {}
+        dd['company'] = d['company']
+        dd['product'] = d['product']
+        dd['price'] = f"${d['price']:.2f} / L"
+
+        all.append(dd)
+    return (title, all)
+
+def build_overall_table(d):
+    date_str, table_data = d
+    headers=list(table_data[0].keys())
+    table = f"## {date_str}\n"
+    table += ("| "+" | ".join([ header for header in headers]) + "| \n")
+    table += ("| "+" | ".join(['---' for header in headers]) + "|\n")
+    for row in table_data:
+        dd = [row['company'], f"{row['product']}", row['price']]
+        table += ("| "+" | ".join([ c for c in dd]) + "| \n")
+
+    return table
+
 
 def get_data(file):
-    data = json.loads(open(file, "r", encoding='utf-8').read())
+    data = json.loads(open(f"{base_dir}/{file}", "r", encoding='utf-8').read())
+    title=f"{data[0]['date'][:10]} ({data[0]['date_of_week']})"
     all=[]
     for d in data:
         dd={}
@@ -16,12 +45,14 @@ def get_data(file):
             dd['locations'] = 'any'
     
         all.append(dd)
-    return all
+    return (title, all)
 
 
-def build_table(table_data):
+def build_table(d):
+    date_str, table_data = d
     headers=list(table_data[0].keys())
-    table = ("| "+" | ".join([ header for header in headers]) + "| \n")
+    table = f"## {date_str}\n"
+    table += ("| "+" | ".join([ header for header in headers]) + "| \n")
     table += ("| "+" | ".join(['---' for header in headers]) + "|\n")
     for row in table_data:
         dd = [row['product'], f"{row['value']:.2f}", row['locations']]
@@ -63,6 +94,7 @@ def replacing_md(file, block, data_to_replace):
         print(s)
         f.write(s)
 
+replacing_md("README.md","overall_price_info",build_overall_table(get_overall_data("overall.json")))
 replacing_md("README.md","today_s_info",build_table(get_data("today-price-info.json")))
 replacing_md("README.md","tomorrow_s_info",build_table(get_data("tomorrow-price-info.json")))
 replacing_md("README.md","overmorrow_s_info",build_table(get_data("overmorrow-price-info.json")))
