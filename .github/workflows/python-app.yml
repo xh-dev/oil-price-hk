@@ -47,6 +47,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add *.json
+        git add json-data/*.json
         git add README.md
         git commit -m "auto update"
         git push
