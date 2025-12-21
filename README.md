@@ -1,7 +1,7 @@
 # oil-price-hk
 
 <!-- last_update_time start -->
-Last updatetime: 2025-12-21 (Sun)
+Last updatetime: 2025-12-22 (Mon)
 <!-- last_update_time end -->
 
 Daily oil price info from hong kong consumer council
@@ -26,30 +26,13 @@ Daily oil price info from hong kong consumer council
 <!-- overall_price_info end -->
 
 <!-- today_s_info start -->
-## 2025-12-21 (Sun)
-| product | value | locations|
-| --- | --- | ---|
-| Sinopec - SINO X Power (Premium Petrol) | 10.94 | any|
-| PetroChina - Futuro Premium (Premium Petrol) | 9.80 | any|
-| PetroChina - VitaGold Unleaded (Standard Petrol) | 7.00 | any|
-| Shell - Shell FuelSave Unleaded (Standard Petrol) | 7.00 | any|
-| Shell - Shell V-Power Racing (Premium Petrol) | 7.00 | any|
-| Sinopec - SINO Power (Standard Petrol) | 6.50 | any|
-| Esso - Synergy Extra petrol (Standard Petrol) | 1.60 | any|
-| Esso - Synergy Supreme+ premium petrol (Premium Petrol) | 1.60 | any|
-| Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
-| Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
-
-<!-- today_s_info end -->
-
-<!-- tomorrow_s_info start -->
 ## 2025-12-22 (Mon)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Sham Shui Po,Kam Tin,Fanling|
+| Sinopec - SINO X Power (Premium Petrol) | 9.20 | any|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 7.00 | any|
 | PetroChina - Futuro Premium (Premium Petrol) | 7.00 | any|
-| Sinopec - SINO X Power (Premium Petrol) | 6.20 | any|
 | Sinopec - SINO Power (Standard Petrol) | 6.00 | any|
 | Shell - Shell FuelSave Unleaded (Standard Petrol) | 5.00 | any|
 | Shell - Shell V-Power Racing (Premium Petrol) | 5.00 | any|
@@ -58,9 +41,9 @@ Daily oil price info from hong kong consumer council
 | Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
 | Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
-<!-- tomorrow_s_info end -->
+<!-- today_s_info end -->
 
-<!-- overmorrow_s_info start -->
+<!-- tomorrow_s_info start -->
 ## 2025-12-23 (Tue)
 | product | value | locations|
 | --- | --- | ---|
@@ -76,9 +59,9 @@ Daily oil price info from hong kong consumer council
 | Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
 | Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
-<!-- overmorrow_s_info end -->
+<!-- tomorrow_s_info end -->
 
-<!-- fourth_s_info start -->
+<!-- overmorrow_s_info start -->
 ## 2025-12-24 (Wed)
 | product | value | locations|
 | --- | --- | ---|
@@ -94,9 +77,9 @@ Daily oil price info from hong kong consumer council
 | Esso - Synergy Extra petrol (Standard Petrol) | 1.60 | any|
 | Esso - Synergy Supreme+ premium petrol (Premium Petrol) | 1.60 | any|
 
-<!-- fourth_s_info end -->
+<!-- overmorrow_s_info end -->
 
-<!-- fifth_s_info start -->
+<!-- fourth_s_info start -->
 ## 2025-12-25 (Thu)
 | product | value | locations|
 | --- | --- | ---|
@@ -112,9 +95,9 @@ Daily oil price info from hong kong consumer council
 | Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
 | Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
-<!-- fifth_s_info end -->
+<!-- fourth_s_info end -->
 
-<!-- sixth_s_info start -->
+<!-- fifth_s_info start -->
 ## 2025-12-26 (Fri)
 | product | value | locations|
 | --- | --- | ---|
@@ -129,9 +112,9 @@ Daily oil price info from hong kong consumer council
 | Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
 | Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
-<!-- sixth_s_info end -->
+<!-- fifth_s_info end -->
 
-<!-- seventh_s_info start -->
+<!-- sixth_s_info start -->
 ## 2025-12-27 (Sat)
 | product | value | locations|
 | --- | --- | ---|
@@ -145,5 +128,22 @@ Daily oil price info from hong kong consumer council
 | Sinopec - SINO Power (Standard Petrol) | 6.00 | any|
 | Esso - Synergy Extra petrol (Standard Petrol) | 1.60 | any|
 | Esso - Synergy Supreme+ premium petrol (Premium Petrol) | 1.60 | any|
+
+<!-- sixth_s_info end -->
+
+<!-- seventh_s_info start -->
+## 2025-12-28 (Sun)
+| product | value | locations|
+| --- | --- | ---|
+| Sinopec - SINO X Power (Premium Petrol) | 10.40 | any|
+| PetroChina - Futuro Premium (Premium Petrol) | 9.80 | any|
+| PetroChina - VitaGold Unleaded (Standard Petrol) | 7.00 | any|
+| Shell - Shell FuelSave Unleaded (Standard Petrol) | 7.00 | any|
+| Shell - Shell V-Power Racing (Premium Petrol) | 7.00 | any|
+| Sinopec - SINO Power (Standard Petrol) | 6.00 | any|
+| Esso - Synergy Extra petrol (Standard Petrol) | 1.60 | any|
+| Esso - Synergy Supreme+ premium petrol (Premium Petrol) | 1.60 | any|
+| Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
+| Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
 <!-- seventh_s_info end -->
