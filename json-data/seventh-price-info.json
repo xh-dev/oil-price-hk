@@ -1,51 +1,66 @@
 [
   {
-    "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-    "name": "Designated Station Discount",
-    "model": "discount",
-    "criteria": [
-      {
-        "min_purchasing": 300.0
-      },
-      {
-        "locations": [
-          "Kowloon Tong",
-          "Sham Shui Po",
-          "Kam Tin",
-          "Fanling"
-        ]
-      }
-    ],
-    "value": 11.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
-  },
-  {
-    "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+    "product": "Sinopec - SINO X Power (Premium Petrol)",
     "name": "Walk-in Discount",
     "model": "discount",
     "criteria": [],
-    "value": 7.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "value": 10.97,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   },
   {
     "product": "PetroChina - Futuro Premium (Premium Petrol)",
     "name": "Walk-in Discount",
     "model": "discount",
     "criteria": [],
-    "value": 7.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "value": 10.5,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   },
   {
-    "product": "Sinopec - SINO X Power (Premium Petrol)",
+    "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
     "name": "Walk-in Discount",
     "model": "discount",
     "criteria": [],
-    "value": 6.2,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "value": 10.0,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
+  },
+  {
+    "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 8.2,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
+  },
+  {
+    "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
+  },
+  {
+    "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
+  },
+  {
+    "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.0,
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   },
   {
     "product": "Sinopec - SINO Power (Standard Petrol)",
@@ -53,26 +68,8 @@
     "model": "discount",
     "criteria": [],
     "value": 6.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
-  },
-  {
-    "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 5.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
-  },
-  {
-    "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 5.0,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   },
   {
     "product": "Esso - Synergy Extra petrol (Standard Petrol)",
@@ -80,8 +77,8 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   },
   {
     "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
@@ -89,25 +86,7 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
-  },
-  {
-    "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 0.9,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
-  },
-  {
-    "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 0.9,
-    "date": "2025-12-29 00:00:00+08:00",
-    "date_of_week": "Mon"
+    "date": "2026-02-07 00:00:00+08:00",
+    "date_of_week": "Sat"
   }
 ]

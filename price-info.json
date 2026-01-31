@@ -3,7 +3,7 @@
     "name": "Sinopec - SINO Power (Standard Petrol)",
     "company": "Sinopec",
     "product": "SINO Power (Standard Petrol)",
-    "price": 28.89,
+    "price": 29.24,
     "discounts": [
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
@@ -11,52 +11,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.0,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.0,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.0,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.0,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.0,
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -65,162 +20,52 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Saturday": 2,
-          "Sunday": 2,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-23 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 6.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Saturday": 2,
-          "Sunday": 2,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-24 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 6.0,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Saturday": 2,
-          "Sunday": 2,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-25 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 6.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Saturday": 2,
-          "Sunday": 2,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-26 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 6.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Saturday": 2,
-          "Sunday": 2,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 6.0,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -251,7 +96,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -267,6 +112,7 @@
           },
           {
             "locations-not-apply": [
+              "Chai Wan",
               "MacDonnell Road",
               "Kennedy Road",
               "Peak Road"
@@ -282,8 +128,168 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
+      },
+      {
+        "product": "Sinopec - SINO Power (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Saturday": 2,
+          "Sunday": 2,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Sinopec - SINO Power (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Saturday": 2,
+          "Sunday": 2,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1
+        },
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "Sinopec - SINO Power (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Saturday": 2,
+          "Sunday": 2,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Sinopec - SINO Power (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Saturday": 2,
+          "Sunday": 2,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1
+        },
+        "date": "2026-02-06 00:00:00",
+        "date_of_week": "Fri"
+      },
+      {
+        "product": "Sinopec - SINO Power (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Saturday": 2,
+          "Sunday": 2,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   },
@@ -291,60 +297,15 @@
     "name": "Sinopec - SINO X Power (Premium Petrol)",
     "company": "Sinopec",
     "product": "SINO X Power (Premium Petrol)",
-    "price": 30.69,
+    "price": 31.04,
     "discounts": [
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 7.6,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.2,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.2,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 6.2,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 10.4,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 10.4,
-        "date": "2025-12-28 00:00:00",
+        "value": 10.99,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -352,168 +313,53 @@
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 6.2,
-        "date": "2025-12-29 00:00:00",
+        "value": 7.8,
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "Chai Wan",
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
-          "Monday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-23 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 8.9,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "Chai Wan",
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
-          "Monday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-24 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 9.2,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "Chai Wan",
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
-          "Monday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-25 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.8,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "Chai Wan",
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
-          "Monday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-26 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 8.9,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "X Card"
-          },
-          {
-            "min_purchasing": 100.0
-          },
-          {
-            "locations-not-apply": [
-              "Chai Wan",
-              "MacDonnell Road",
-              "Kennedy Road",
-              "Peak Road"
-            ]
-          }
-        ],
-        "points-earning": {
-          "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
-          "Monday": 1,
-          "Wednesday": 1,
-          "Thursday": 1,
-          "Friday": 1
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 10.97,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -529,7 +375,6 @@
           },
           {
             "locations-not-apply": [
-              "Chai Wan",
               "MacDonnell Road",
               "Kennedy Road",
               "Peak Road"
@@ -538,14 +383,14 @@
         ],
         "points-earning": {
           "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
           "Monday": 1,
           "Wednesday": 1,
           "Thursday": 1,
-          "Friday": 1
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -570,14 +415,14 @@
         ],
         "points-earning": {
           "Tuesday": 3,
-          "Saturday": 5,
-          "Sunday": 5,
           "Monday": 1,
           "Wednesday": 1,
           "Thursday": 1,
-          "Friday": 1
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -589,14 +434,59 @@
             "membership-card": "X Card"
           },
           {
-            "time_from": "17:00"
+            "min_purchasing": 100.0
           },
           {
-            "time_to": "23:59"
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
           }
         ],
-        "discount_every_unit": 9.2,
-        "date": "2025-12-24 00:00:00",
+        "points-earning": {
+          "Tuesday": 3,
+          "Monday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Sinopec - SINO X Power (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Tuesday": 3,
+          "Monday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
+        },
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -608,15 +498,92 @@
             "membership-card": "X Card"
           },
           {
-            "time_from": "17:00"
+            "min_purchasing": 100.0
           },
           {
-            "time_to": "23:59"
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
           }
         ],
-        "discount_every_unit": 9.2,
-        "date": "2025-12-26 00:00:00",
+        "points-earning": {
+          "Tuesday": 3,
+          "Monday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Sinopec - SINO X Power (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Tuesday": 3,
+          "Monday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
+        },
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
+      },
+      {
+        "product": "Sinopec - SINO X Power (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "X Card"
+          },
+          {
+            "min_purchasing": 100.0
+          },
+          {
+            "locations-not-apply": [
+              "Chai Wan",
+              "MacDonnell Road",
+              "Kennedy Road",
+              "Peak Road"
+            ]
+          }
+        ],
+        "points-earning": {
+          "Tuesday": 3,
+          "Monday": 1,
+          "Wednesday": 1,
+          "Thursday": 1,
+          "Friday": 1,
+          "Saturday": 1,
+          "Sunday": 1
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   },
@@ -624,7 +591,7 @@
     "name": "PetroChina - VitaGold Unleaded (Standard Petrol)",
     "company": "PetroChina",
     "product": "VitaGold Unleaded (Standard Petrol)",
-    "price": 28.89,
+    "price": 29.24,
     "discounts": [
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
@@ -632,52 +599,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -686,196 +608,52 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Designated Station Discount",
+        "name": "Walk-in Discount",
         "model": "discount",
-        "criteria": [
-          {
-            "min_purchasing": 300.0
-          },
-          {
-            "locations": [
-              "Kowloon Tong",
-              "Sham Shui Po",
-              "Kam Tin",
-              "Fanling"
-            ]
-          }
-        ],
-        "value": 11.0,
-        "date": "2025-12-23 00:00:00",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Designated Station Discount",
+        "name": "Walk-in Discount",
         "model": "discount",
-        "criteria": [
-          {
-            "min_purchasing": 300.0
-          },
-          {
-            "locations": [
-              "Kowloon Tong",
-              "Sham Shui Po",
-              "Kam Tin",
-              "Fanling"
-            ]
-          }
-        ],
-        "value": 11.0,
-        "date": "2025-12-24 00:00:00",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Designated Station Discount",
+        "name": "Walk-in Discount",
         "model": "discount",
-        "criteria": [
-          {
-            "min_purchasing": 300.0
-          },
-          {
-            "locations": [
-              "Kowloon Tong",
-              "Sham Shui Po",
-              "Kam Tin",
-              "Fanling"
-            ]
-          }
-        ],
-        "value": 11.0,
-        "date": "2025-12-25 00:00:00",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Designated Station Discount",
+        "name": "Walk-in Discount",
         "model": "discount",
-        "criteria": [
-          {
-            "min_purchasing": 300.0
-          },
-          {
-            "locations": [
-              "Kowloon Tong",
-              "Sham Shui Po",
-              "Kam Tin",
-              "Fanling"
-            ]
-          }
-        ],
-        "value": 11.0,
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-26 00:00:00",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Wednesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -896,7 +674,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -917,8 +695,113 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
+      },
+      {
+        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-06 00:00:00",
+        "date_of_week": "Fri"
+      },
+      {
+        "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Wednesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   },
@@ -926,60 +809,15 @@
     "name": "PetroChina - Futuro Premium (Premium Petrol)",
     "company": "PetroChina",
     "product": "Futuro Premium (Premium Petrol)",
-    "price": 30.69,
+    "price": 29.24,
     "discounts": [
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 9.8,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 9.8,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 9.8,
-        "date": "2025-12-28 00:00:00",
+        "value": 10.5,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -988,112 +826,52 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Wednesday": 2,
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-23 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Wednesday": 2,
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-24 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Wednesday": 2,
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-25 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Wednesday": 2,
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-26 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 10.5,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "PetroChina Gasoline Discount Card"
-          }
-        ],
-        "points-earning-weighting": {
-          "Wednesday": 2,
-          "Friday": 4,
-          "Saturday": 4,
-          "Sunday": 4,
-          "Monday": 1,
-          "Tuesday": 1,
-          "Thursday": 1
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 10.5,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1114,7 +892,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1135,8 +913,113 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
+      },
+      {
+        "product": "PetroChina - Futuro Premium (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Wednesday": 2,
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "PetroChina - Futuro Premium (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Wednesday": 2,
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "PetroChina - Futuro Premium (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Wednesday": 2,
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "PetroChina - Futuro Premium (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Wednesday": 2,
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-06 00:00:00",
+        "date_of_week": "Fri"
+      },
+      {
+        "product": "PetroChina - Futuro Premium (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "PetroChina Gasoline Discount Card"
+          }
+        ],
+        "points-earning-weighting": {
+          "Wednesday": 2,
+          "Friday": 4,
+          "Saturday": 4,
+          "Sunday": 4,
+          "Monday": 1,
+          "Tuesday": 1,
+          "Thursday": 1
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   },
@@ -1144,15 +1027,33 @@
     "name": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
     "company": "Caltex",
     "product": "Gold with Techron\u00ae (Standard Petrol)",
-    "price": 28.89,
+    "price": 29.24,
     "discounts": [
       {
         "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-23 00:00:00",
+        "value": 8.2,
+        "date": "2026-02-01 00:00:00",
+        "date_of_week": "Sun"
+      },
+      {
+        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 8.2,
+        "date": "2026-02-02 00:00:00",
+        "date_of_week": "Mon"
+      },
+      {
+        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 8.2,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1161,7 +1062,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.2,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1169,8 +1070,8 @@
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-25 00:00:00",
+        "value": 8.2,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1178,8 +1079,8 @@
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-26 00:00:00",
+        "value": 8.2,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1188,116 +1089,39 @@
         "model": "discount",
         "criteria": [],
         "value": 8.2,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-28 00:00:00",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Caltex Rewards Card"
+          }
+        ],
+        "points-earning": {
+          "litre": 2,
+          "point": 1
+        },
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "HSBC"
+            "membership-card": "Caltex Rewards Card"
           }
         ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-29 00:00:00",
+        "points-earning": {
+          "litre": 2,
+          "point": 1
+        },
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1313,7 +1137,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1329,7 +1153,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1345,7 +1169,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1361,7 +1185,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1377,40 +1201,8 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Caltex Rewards Card"
-          }
-        ],
-        "points-earning": {
-          "litre": 2,
-          "point": 1
-        },
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Caltex Rewards Card"
-          }
-        ],
-        "points-earning": {
-          "litre": 2,
-          "point": 1
-        },
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
       }
     ]
   },
@@ -1418,15 +1210,33 @@
     "name": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
     "company": "Caltex",
     "product": "Platinum with Techron\u00ae (Premium Petrol)",
-    "price": 30.69,
+    "price": 31.04,
     "discounts": [
       {
         "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-23 00:00:00",
+        "value": 10.0,
+        "date": "2026-02-01 00:00:00",
+        "date_of_week": "Sun"
+      },
+      {
+        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 10.0,
+        "date": "2026-02-02 00:00:00",
+        "date_of_week": "Mon"
+      },
+      {
+        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 10.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1435,7 +1245,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.0,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1443,8 +1253,8 @@
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-25 00:00:00",
+        "value": 10.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1452,8 +1262,8 @@
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-26 00:00:00",
+        "value": 10.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1462,116 +1272,39 @@
         "model": "discount",
         "criteria": [],
         "value": 10.0,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-28 00:00:00",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Caltex Rewards Card"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": 1
+        },
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 0.9,
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "HSBC"
+            "membership-card": "Caltex Rewards Card"
           }
         ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
-        "criteria": [
-          {
-            "Holding": "HSBC"
-          }
-        ],
-        "discount_every_unit": 0.9,
-        "date": "2025-12-29 00:00:00",
+        "points-earning": {
+          "litre": 1,
+          "point": 1
+        },
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1587,7 +1320,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1603,7 +1336,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1619,7 +1352,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1635,7 +1368,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1651,40 +1384,8 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Caltex Rewards Card"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": 1
-        },
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Caltex Rewards Card"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": 1
-        },
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
       }
     ]
   },
@@ -1692,16 +1393,16 @@
     "name": "Esso - Synergy Extra petrol (Standard Petrol)",
     "company": "Esso",
     "product": "Synergy Extra petrol (Standard Petrol)",
-    "price": 28.89,
+    "price": 29.24,
     "discounts": [
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 8.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
+        "value": 1.6,
+        "date": "2026-02-01 00:00:00",
+        "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
@@ -1709,17 +1410,8 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
+        "date": "2026-02-02 00:00:00",
+        "date_of_week": "Mon"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
@@ -1727,7 +1419,34 @@
         "model": "discount",
         "criteria": [],
         "value": 8.0,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 1.6,
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 1.6,
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 8.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1736,25 +1455,39 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-28 00:00:00",
+        "name": "Credit Card Promotion",
+        "model": "voucher",
+        "criteria": [
+          {
+            "type_of_card": "Master Card"
+          },
+          {
+            "min_purchasing": 400.0
+          }
+        ],
+        "value": 100.0,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-29 00:00:00",
+        "name": "Credit Card Promotion",
+        "model": "voucher",
+        "criteria": [
+          {
+            "type_of_card": "Master Card"
+          },
+          {
+            "min_purchasing": 400.0
+          }
+        ],
+        "value": 100.0,
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1770,7 +1503,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1786,7 +1519,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1802,7 +1535,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1818,7 +1551,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1834,39 +1567,33 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
         "name": "Credit Card Promotion",
-        "model": "voucher",
+        "model": "discount",
         "criteria": [
           {
-            "type_of_card": "Master Card"
-          },
-          {
-            "min_purchasing": 400.0
+            "Holding": "BOC Esso World Mastercard"
           }
         ],
-        "value": 100.0,
-        "date": "2025-12-28 00:00:00",
+        "discount_every_unit": 0.4,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
         "name": "Credit Card Promotion",
-        "model": "voucher",
+        "model": "discount",
         "criteria": [
           {
-            "type_of_card": "Master Card"
-          },
-          {
-            "min_purchasing": 400.0
+            "Holding": "BOC Esso World Mastercard"
           }
         ],
-        "value": 100.0,
-        "date": "2025-12-29 00:00:00",
+        "discount_every_unit": 0.4,
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1879,7 +1606,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1892,7 +1619,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1905,7 +1632,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1918,7 +1645,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1931,33 +1658,55 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "BOC Esso World Mastercard"
+            "membership-card": "Esso Similes"
           }
         ],
-        "discount_every_unit": 0.4,
-        "date": "2025-12-28 00:00:00",
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 20,
+            "Sunday": 20,
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10
+          }
+        },
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "BOC Esso World Mastercard"
+            "membership-card": "Esso Similes"
           }
         ],
-        "discount_every_unit": 0.4,
-        "date": "2025-12-29 00:00:00",
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 20,
+            "Sunday": 20,
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10
+          }
+        },
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1981,7 +1730,7 @@
             "Friday": 10
           }
         },
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2005,7 +1754,7 @@
             "Friday": 10
           }
         },
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2029,7 +1778,7 @@
             "Friday": 10
           }
         },
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2053,7 +1802,7 @@
             "Friday": 10
           }
         },
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2077,56 +1826,8 @@
             "Friday": 10
           }
         },
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
-      },
-      {
-        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Esso Similes"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 20,
-            "Sunday": 20,
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10
-          }
-        },
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Esso - Synergy Extra petrol (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Esso Similes"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 20,
-            "Sunday": 20,
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10
-          }
-        },
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
       }
     ]
   },
@@ -2134,16 +1835,16 @@
     "name": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
     "company": "Esso",
     "product": "Synergy Supreme+ premium petrol (Premium Petrol)",
-    "price": 30.69,
+    "price": 31.04,
     "discounts": [
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 9.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
+        "value": 1.6,
+        "date": "2026-02-01 00:00:00",
+        "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
@@ -2151,17 +1852,8 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
+        "date": "2026-02-02 00:00:00",
+        "date_of_week": "Mon"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
@@ -2169,7 +1861,34 @@
         "model": "discount",
         "criteria": [],
         "value": 9.0,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 1.6,
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 1.6,
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 9.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2178,25 +1897,39 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-28 00:00:00",
+        "name": "Credit Card Promotion",
+        "model": "voucher",
+        "criteria": [
+          {
+            "type_of_card": "Master Card"
+          },
+          {
+            "min_purchasing": 400.0
+          }
+        ],
+        "value": 100.0,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 1.6,
-        "date": "2025-12-29 00:00:00",
+        "name": "Credit Card Promotion",
+        "model": "voucher",
+        "criteria": [
+          {
+            "type_of_card": "Master Card"
+          },
+          {
+            "min_purchasing": 400.0
+          }
+        ],
+        "value": 100.0,
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2212,7 +1945,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2228,7 +1961,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2244,7 +1977,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2260,7 +1993,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2276,39 +2009,33 @@
           }
         ],
         "value": 100.0,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
         "name": "Credit Card Promotion",
-        "model": "voucher",
+        "model": "discount",
         "criteria": [
           {
-            "type_of_card": "Master Card"
-          },
-          {
-            "min_purchasing": 400.0
+            "Holding": "BOC Esso World Mastercard"
           }
         ],
-        "value": 100.0,
-        "date": "2025-12-28 00:00:00",
+        "discount_every_unit": 0.4,
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
         "name": "Credit Card Promotion",
-        "model": "voucher",
+        "model": "discount",
         "criteria": [
           {
-            "type_of_card": "Master Card"
-          },
-          {
-            "min_purchasing": 400.0
+            "Holding": "BOC Esso World Mastercard"
           }
         ],
-        "value": 100.0,
-        "date": "2025-12-29 00:00:00",
+        "discount_every_unit": 0.4,
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2321,7 +2048,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2334,7 +2061,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2347,7 +2074,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2360,7 +2087,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2373,33 +2100,55 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "BOC Esso World Mastercard"
+            "membership-card": "Esso Similes"
           }
         ],
-        "discount_every_unit": 0.4,
-        "date": "2025-12-28 00:00:00",
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 30,
+            "Sunday": 30,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15
+          }
+        },
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Credit Card Promotion",
-        "model": "discount",
+        "name": "Membership Card Promotion",
+        "model": "membership",
         "criteria": [
           {
-            "Holding": "BOC Esso World Mastercard"
+            "membership-card": "Esso Similes"
           }
         ],
-        "discount_every_unit": 0.4,
-        "date": "2025-12-29 00:00:00",
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 30,
+            "Sunday": 30,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15
+          }
+        },
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2423,7 +2172,7 @@
             "Friday": 15
           }
         },
-        "date": "2025-12-23 00:00:00",
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2447,7 +2196,7 @@
             "Friday": 15
           }
         },
-        "date": "2025-12-24 00:00:00",
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2471,7 +2220,7 @@
             "Friday": 15
           }
         },
-        "date": "2025-12-25 00:00:00",
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2495,7 +2244,7 @@
             "Friday": 15
           }
         },
-        "date": "2025-12-26 00:00:00",
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2519,64 +2268,8 @@
             "Friday": 15
           }
         },
-        "date": "2025-12-27 00:00:00",
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
-      },
-      {
-        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Esso Similes"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 30,
-            "Sunday": 30,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15
-          }
-        },
-        "date": "2025-12-28 00:00:00",
-        "date_of_week": "Sun"
-      },
-      {
-        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Esso Similes"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 30,
-            "Sunday": 30,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15
-          }
-        },
-        "date": "2025-12-29 00:00:00",
-        "date_of_week": "Mon"
-      },
-      {
-        "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
-        "name": "Other Promotion",
-        "model": "upgrades",
-        "criteria": [],
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
       }
     ]
   },
@@ -2584,7 +2277,7 @@
     "name": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
     "company": "Shell",
     "product": "Shell FuelSave Unleaded (Standard Petrol)",
-    "price": 28.89,
+    "price": 29.24,
     "discounts": [
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
@@ -2592,52 +2285,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 5.0,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2646,127 +2294,52 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10,
-            "Saturday": 10,
-            "Sunday": 10
-          }
-        },
-        "date": "2025-12-23 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10,
-            "Saturday": 10,
-            "Sunday": 10
-          }
-        },
-        "date": "2025-12-24 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10,
-            "Saturday": 10,
-            "Sunday": 10
-          }
-        },
-        "date": "2025-12-25 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 5.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10,
-            "Saturday": 10,
-            "Sunday": 10
-          }
-        },
-        "date": "2025-12-26 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Monday": 10,
-            "Tuesday": 10,
-            "Wednesday": 10,
-            "Thursday": 10,
-            "Friday": 10,
-            "Saturday": 10,
-            "Sunday": 10
-          }
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2790,7 +2363,7 @@
             "Sunday": 10
           }
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2814,8 +2387,128 @@
             "Sunday": 10
           }
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
+      },
+      {
+        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10,
+            "Saturday": 10,
+            "Sunday": 10
+          }
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10,
+            "Saturday": 10,
+            "Sunday": 10
+          }
+        },
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10,
+            "Saturday": 10,
+            "Sunday": 10
+          }
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10,
+            "Saturday": 10,
+            "Sunday": 10
+          }
+        },
+        "date": "2026-02-06 00:00:00",
+        "date_of_week": "Fri"
+      },
+      {
+        "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Monday": 10,
+            "Tuesday": 10,
+            "Wednesday": 10,
+            "Thursday": 10,
+            "Friday": 10,
+            "Saturday": 10,
+            "Sunday": 10
+          }
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   },
@@ -2823,7 +2516,7 @@
     "name": "Shell - Shell V-Power Racing (Premium Petrol)",
     "company": "Shell",
     "product": "Shell V-Power Racing (Premium Petrol)",
-    "price": 30.69,
+    "price": 31.04,
     "discounts": [
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
@@ -2831,52 +2524,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2025-12-23 00:00:00",
-        "date_of_week": "Tue"
-      },
-      {
-        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-24 00:00:00",
-        "date_of_week": "Wed"
-      },
-      {
-        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 5.0,
-        "date": "2025-12-25 00:00:00",
-        "date_of_week": "Thu"
-      },
-      {
-        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-26 00:00:00",
-        "date_of_week": "Fri"
-      },
-      {
-        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-27 00:00:00",
-        "date_of_week": "Sat"
-      },
-      {
-        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Walk-in Discount",
-        "model": "discount",
-        "criteria": [],
-        "value": 7.0,
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2885,127 +2533,52 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
       },
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 45,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15,
-            "Sunday": 15
-          }
-        },
-        "date": "2025-12-23 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-03 00:00:00",
         "date_of_week": "Tue"
       },
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 45,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15,
-            "Sunday": 15
-          }
-        },
-        "date": "2025-12-24 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-04 00:00:00",
         "date_of_week": "Wed"
       },
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 45,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15,
-            "Sunday": 15
-          }
-        },
-        "date": "2025-12-25 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 5.0,
+        "date": "2026-02-05 00:00:00",
         "date_of_week": "Thu"
       },
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 45,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15,
-            "Sunday": 15
-          }
-        },
-        "date": "2025-12-26 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-06 00:00:00",
         "date_of_week": "Fri"
       },
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-        "name": "Membership Card Promotion",
-        "model": "membership",
-        "criteria": [
-          {
-            "membership-card": "Shell GO+"
-          }
-        ],
-        "points-earning": {
-          "litre": 1,
-          "point": {
-            "Saturday": 45,
-            "Monday": 15,
-            "Tuesday": 15,
-            "Wednesday": 15,
-            "Thursday": 15,
-            "Friday": 15,
-            "Sunday": 15
-          }
-        },
-        "date": "2025-12-27 00:00:00",
+        "name": "Walk-in Discount",
+        "model": "discount",
+        "criteria": [],
+        "value": 7.0,
+        "date": "2026-02-07 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -3029,7 +2602,7 @@
             "Sunday": 15
           }
         },
-        "date": "2025-12-28 00:00:00",
+        "date": "2026-02-01 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -3053,8 +2626,128 @@
             "Sunday": 15
           }
         },
-        "date": "2025-12-29 00:00:00",
+        "date": "2026-02-02 00:00:00",
         "date_of_week": "Mon"
+      },
+      {
+        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 45,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15,
+            "Sunday": 15
+          }
+        },
+        "date": "2026-02-03 00:00:00",
+        "date_of_week": "Tue"
+      },
+      {
+        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 45,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15,
+            "Sunday": 15
+          }
+        },
+        "date": "2026-02-04 00:00:00",
+        "date_of_week": "Wed"
+      },
+      {
+        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 45,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15,
+            "Sunday": 15
+          }
+        },
+        "date": "2026-02-05 00:00:00",
+        "date_of_week": "Thu"
+      },
+      {
+        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 45,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15,
+            "Sunday": 15
+          }
+        },
+        "date": "2026-02-06 00:00:00",
+        "date_of_week": "Fri"
+      },
+      {
+        "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+        "name": "Membership Card Promotion",
+        "model": "membership",
+        "criteria": [
+          {
+            "membership-card": "Shell GO+"
+          }
+        ],
+        "points-earning": {
+          "litre": 1,
+          "point": {
+            "Saturday": 45,
+            "Monday": 15,
+            "Tuesday": 15,
+            "Wednesday": 15,
+            "Thursday": 15,
+            "Friday": 15,
+            "Sunday": 15
+          }
+        },
+        "date": "2026-02-07 00:00:00",
+        "date_of_week": "Sat"
       }
     ]
   }
