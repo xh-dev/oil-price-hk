@@ -1,30 +1,12 @@
 [
   {
-    "product": "Sinopec - SINO X Power (Premium Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 10.99,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
-  },
-  {
-    "product": "PetroChina - Futuro Premium (Premium Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 10.5,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
-  },
-  {
     "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
     "name": "Walk-in Discount",
     "model": "discount",
     "criteria": [],
     "value": 10.0,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
     "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
@@ -32,8 +14,17 @@
     "model": "discount",
     "criteria": [],
     "value": 8.2,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
+  },
+  {
+    "product": "Sinopec - SINO X Power (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 7.8,
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
     "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
@@ -41,26 +32,17 @@
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
-    "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+    "product": "PetroChina - Futuro Premium (Premium Petrol)",
     "name": "Walk-in Discount",
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
-  },
-  {
-    "product": "Shell - Shell V-Power Racing (Premium Petrol)",
-    "name": "Walk-in Discount",
-    "model": "discount",
-    "criteria": [],
-    "value": 7.0,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
     "product": "Sinopec - SINO Power (Standard Petrol)",
@@ -68,8 +50,26 @@
     "model": "discount",
     "criteria": [],
     "value": 6.0,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
+  },
+  {
+    "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 5.0,
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
+  },
+  {
+    "product": "Shell - Shell V-Power Racing (Premium Petrol)",
+    "name": "Walk-in Discount",
+    "model": "discount",
+    "criteria": [],
+    "value": 5.0,
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
     "product": "Esso - Synergy Extra petrol (Standard Petrol)",
@@ -77,8 +77,8 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   },
   {
     "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
@@ -86,7 +86,7 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2026-02-01 00:00:00+08:00",
-    "date_of_week": "Sun"
+    "date": "2026-02-02 00:00:00+08:00",
+    "date_of_week": "Mon"
   }
 ]
