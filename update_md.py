@@ -19,14 +19,19 @@ def get_overall_data(file):
     return (title, all)
 
 def build_overall_table(d):
-    date_str, table_data = d
-    headers=list(table_data[0].keys())
-    table = f"## {date_str}\n"
-    table += ("| "+" | ".join([ header for header in headers]) + "| \n")
-    table += ("| "+" | ".join(['---' for header in headers]) + "|\n")
-    for row in table_data:
-        dd = [row['company'], f"{row['product']}", row['price']]
-        table += ("| "+" | ".join([ c for c in dd]) + "| \n")
+    try:
+        date_str, table_data = d
+        headers=list(table_data[0].keys())
+        table = f"## {date_str}\n"
+        table += ("| "+" | ".join([ header for header in headers]) + "| \n")
+        table += ("| "+" | ".join(['---' for header in headers]) + "|\n")
+        for row in table_data:
+            dd = [row['company'], f"{row['product']}", row['price']]
+            table += ("| "+" | ".join([ c for c in dd]) + "| \n")
+    except Exception as ex:
+        print(f"Fail to build table data: \n{json.dumps(d, indent=4)}")
+        raise ex
+
 
     return table
 
