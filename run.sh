@@ -1,4 +1,5 @@
 python get-price-info.py > price-info.json
+cat price-info.json
 python digest-overall-price-info.py --file price-info.json > json-data/overall.json
 python digest-price-info-by-day.py --file price-info.json --days-after-today 0 > json-data/today-price-info.json
 python digest-price-info-by-day.py --file price-info.json --days-after-today 1 > json-data/tomorrow-price-info.json
