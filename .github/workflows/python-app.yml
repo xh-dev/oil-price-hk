@@ -37,10 +37,15 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run pre script
+      run: cat price-info.json
     - name: Run script
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
         ./run.sh
+    - name: Run pre script
+      if: always()
+      run: cat price-info.json
     - name: git operation
       if: ${{ steps.should_run.outputs.SKIPPING == 'true' }}
       run: |
