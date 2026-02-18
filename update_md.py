@@ -20,8 +20,7 @@ def get_overall_data(file):
         return (title, all)
     except Exception as ex:
         d_str = open(f'{base_dir}/{file}', 'r', encoding='utf-8').read()
-        print(f"Fail process table data: {d_str}")
-        raise ex
+        raise Exception(f"Fail process table data: {d_str}") from ex
 
 def build_overall_table(d):
     try:
@@ -34,9 +33,7 @@ def build_overall_table(d):
             dd = [row['company'], f"{row['product']}", row['price']]
             table += ("| "+" | ".join([ c for c in dd]) + "| \n")
     except Exception as ex:
-        print(f"Fail to build table data: \n{json.dumps(d, indent=4)}")
-        raise ex
-
+        raise Exception(f"Fail to build table data: \n{json.dumps(d, indent=4)}") from ex
 
     return table
 
