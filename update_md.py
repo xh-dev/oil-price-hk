@@ -19,7 +19,7 @@ def get_overall_data(file):
             all.append(dd)
         return (title, all)
     except Exception as ex:
-        print(f"Fail to build table data: \n{open(f"{base_dir}/{file}", "r", encoding='utf-8').read()}")
+        print(f"Fail to build table data: \n{open(f'{base_dir}/{file}', 'r', encoding='utf-8').read()}")
         raise ex
 
 def build_overall_table(d):
