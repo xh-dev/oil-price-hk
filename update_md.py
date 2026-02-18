@@ -6,17 +6,21 @@ base_dir='json-data'
 
 
 def get_overall_data(file):
-    data = json.loads(open(f"{base_dir}/{file}", "r", encoding='utf-8').read())
-    title = f"Official Oil Price"
-    all = []
-    for d in data:
-        dd = {}
-        dd['company'] = d['company']
-        dd['product'] = d['product']
-        dd['price'] = f"${d['price']:.2f} / L"
+    try:
+        data = json.loads(open(f"{base_dir}/{file}", "r", encoding='utf-8').read())
+        title = f"Official Oil Price"
+        all = []
+        for d in data:
+            dd = {}
+            dd['company'] = d['company']
+            dd['product'] = d['product']
+            dd['price'] = f"${d['price']:.2f} / L"
 
-        all.append(dd)
-    return (title, all)
+            all.append(dd)
+        return (title, all)
+    except Exception as ex:
+        print(f"Fail to build table data: \n{open(f"{base_dir}/{file}", "r", encoding='utf-8').read()}")
+        raise ex
 
 def build_overall_table(d):
     try:
