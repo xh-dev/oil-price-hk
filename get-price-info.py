@@ -268,6 +268,11 @@ for item in soup.select("table.tb__table.tb__item"):
                         type_of_discount = None if matcher is None else "PetroChina Gasoline Discount Card"
 
                     if type_of_discount is None:
+                        t = t.replace(u'\xa0', ' ')
+                        matcher = re.match("^PetroChina Gasoline Discount Card members can enjoy an instant (HK){0,1}\$(?P<discount_value>[0-9.]+)/L discount when fueling up (standard|premium) petrol upon spending (HK){0,1}\\$(?P<minium_usage>[0-9.]+) or above$", t)
+                        type_of_discount = None if matcher is None else "PetroChina Gasoline Discount Card (special discount)"
+
+                    if type_of_discount is None:
                         matcher = re.match("^Caltex Rewards Card members can earn (\\d+) point for every (\\d+) litre(s){0,1} of (Gold|Platinum) with Techron® gasoline purchase$", t)
                         type_of_discount = None if matcher is None else "Caltex Rewards Card"
 
@@ -325,6 +330,25 @@ for item in soup.select("table.tb__table.tb__item"):
                                     ],
                                     "points-earning": d
                                 })
+                    elif type_of_discount =="PetroChina Gasoline Discount Card (special discount)":
+                        discount_value=float(matcher.group('discount_value'))
+                        min_purchase=float(matcher.group('minium_usage'))
+                        d = {}
+                        for i in range(1, 8):
+                            if WeekdayConverter.str_con(i) not in d:
+                                d[WeekdayConverter.str_con(i)] = 1
+
+                        for i in range(0, cs):
+                            discount.append({
+                                "product": item['title'],
+                                "name": discount_name,
+                                "model": "membership",
+                                "criteria": [
+                                    {"membership-card": "PetroChina Gasoline Discount Card"},
+                                    {"min_purchasing": min_purchase},
+                                ],
+                                "discount_every_unit": discount_value
+                            })
                     elif type_of_discount == "PetroChina Gasoline Discount Card":
                             special_weighting_str=matcher[1]
                             d = {}
@@ -460,7 +484,7 @@ for item in soup.select("table.tb__table.tb__item"):
                             })
                     else:
                         print(detail.text)
-                        raise Exception('Not expected discount type')
+                        raise Exception(f'Not expected discount type: {detail.text}')
             else:
                 raise Exception(f"Not expected dicount name: {discount_name}")
         for index, d in enumerate(discount):
