@@ -20,7 +20,7 @@ def get_overall_data(file):
         return (title, all)
     except Exception as ex:
         d_str = open(f'{base_dir}/{file}', 'r', encoding='utf-8').read()
-        print("Fail process table data: "+d_str)
+        print(f"Fail process table data: {d_str}")
         raise ex
 
 def build_overall_table(d):
