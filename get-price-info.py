@@ -72,7 +72,8 @@ def find_pump_price(elem):
 pump_prices = {key: find_pump_price(recs[key]) for key in recs}
 
 rs = s.get("https://oil-price.consumer.org.hk/en/weekly-discount")
-soup = BeautifulSoup(rs.text, 'html.parser')
+rs_txt = rs.text
+soup = BeautifulSoup(rs_txt, 'html.parser')
 
 dates=[]
 last_date=None
@@ -86,6 +87,8 @@ for item in soup.select("table.tb__table.tb__headtable>thead>tr>th.tb__cell>div.
     dates.append(last_date)
 
 all={}
+if len(soup.select("table.tb__table.tb__item"))==0:
+    raise Exception(f"No data found:\n{rs_txt}")
 for item in soup.select("table.tb__table.tb__item"):
     full_name = item['title'].strip()
     price = pump_prices[full_name.replace(" - ","-").split("(")[0].strip()]
