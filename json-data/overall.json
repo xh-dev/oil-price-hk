@@ -2,12 +2,12 @@
   {
     "company": "Sinopec",
     "product": "SINO Power (Standard Petrol)",
-    "price": 29.69
+    "price": 29.99
   },
   {
     "company": "Sinopec",
     "product": "SINO X Power (Premium Petrol)",
-    "price": 31.49
+    "price": 31.79
   },
   {
     "company": "PetroChina",
@@ -22,12 +22,12 @@
   {
     "company": "Caltex",
     "product": "Gold with Techron® (Standard Petrol)",
-    "price": 29.99
+    "price": 30.49
   },
   {
     "company": "Caltex",
     "product": "Platinum with Techron® (Premium Petrol)",
-    "price": 31.79
+    "price": 32.29
   },
   {
     "company": "Esso",
@@ -37,7 +37,7 @@
   {
     "company": "Esso",
     "product": "Synergy Supreme+ premium petrol (Premium Petrol)",
-    "price": 31.79
+    "price": 29.99
   },
   {
     "company": "Shell",
@@ -47,6 +47,6 @@
   {
     "company": "Shell",
     "product": "Shell V-Power Racing (Premium Petrol)",
-    "price": 30.29
+    "price": 32.09
   }
 ]
