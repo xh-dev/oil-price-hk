@@ -17,7 +17,7 @@
   {
     "company": "PetroChina",
     "product": "Futuro Premium (Premium Petrol)",
-    "price": 31.79
+    "price": 29.99
   },
   {
     "company": "Caltex",
@@ -32,21 +32,21 @@
   {
     "company": "Esso",
     "product": "Synergy Extra petrol (Standard Petrol)",
-    "price": 29.99
+    "price": 30.49
   },
   {
     "company": "Esso",
     "product": "Synergy Supreme+ premium petrol (Premium Petrol)",
-    "price": 29.99
+    "price": 32.29
   },
   {
     "company": "Shell",
     "product": "Shell FuelSave Unleaded (Standard Petrol)",
-    "price": 30.29
+    "price": 30.59
   },
   {
     "company": "Shell",
     "product": "Shell V-Power Racing (Premium Petrol)",
-    "price": 32.09
+    "price": 32.39
   }
 ]
