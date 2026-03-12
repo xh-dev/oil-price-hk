@@ -17,7 +17,7 @@
       }
     ],
     "value": 11.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -26,7 +26,7 @@
     "model": "discount",
     "criteria": [],
     "value": 10.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -35,7 +35,7 @@
     "model": "discount",
     "criteria": [],
     "value": 9.2,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -44,7 +44,7 @@
     "model": "discount",
     "criteria": [],
     "value": 8.2,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -53,7 +53,7 @@
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -62,7 +62,7 @@
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -71,7 +71,7 @@
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -80,7 +80,7 @@
     "model": "discount",
     "criteria": [],
     "value": 7.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -89,7 +89,7 @@
     "model": "discount",
     "criteria": [],
     "value": 6.0,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -98,7 +98,7 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   },
   {
@@ -107,7 +107,7 @@
     "model": "discount",
     "criteria": [],
     "value": 1.6,
-    "date": "2026-03-11 00:00:00+08:00",
+    "date": "2026-03-18 00:00:00+08:00",
     "date_of_week": "Wed"
   }
 ]

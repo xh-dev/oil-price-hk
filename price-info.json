@@ -3,7 +3,7 @@
     "name": "Sinopec - SINO Power (Standard Petrol)",
     "company": "Sinopec",
     "product": "SINO Power (Standard Petrol)",
-    "price": 29.99,
+    "price": 31.09,
     "discounts": [
       {
         "product": "Sinopec - SINO Power (Standard Petrol)",
@@ -11,7 +11,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -20,7 +20,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -29,7 +29,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -38,7 +38,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -47,7 +47,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -56,7 +56,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -65,7 +65,7 @@
         "model": "discount",
         "criteria": [],
         "value": 6.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -97,7 +97,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -129,7 +129,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -161,7 +161,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -193,7 +193,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -225,7 +225,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -257,7 +257,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -289,7 +289,7 @@
           "Thursday": 1,
           "Friday": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -298,7 +298,7 @@
     "name": "Sinopec - SINO X Power (Premium Petrol)",
     "company": "Sinopec",
     "product": "SINO X Power (Premium Petrol)",
-    "price": 31.79,
+    "price": 32.89,
     "discounts": [
       {
         "product": "Sinopec - SINO X Power (Premium Petrol)",
@@ -306,7 +306,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.87,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -315,7 +315,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.95,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -324,7 +324,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.95,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -333,7 +333,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.8,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -342,7 +342,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.87,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -351,7 +351,7 @@
         "model": "discount",
         "criteria": [],
         "value": 9.2,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -360,7 +360,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.8,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -392,7 +392,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -424,7 +424,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -456,7 +456,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -488,7 +488,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -520,7 +520,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -552,7 +552,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -584,7 +584,7 @@
           "Saturday": 1,
           "Sunday": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -593,7 +593,7 @@
     "name": "PetroChina - VitaGold Unleaded (Standard Petrol)",
     "company": "PetroChina",
     "product": "VitaGold Unleaded (Standard Petrol)",
-    "price": 29.99,
+    "price": 31.09,
     "discounts": [
       {
         "product": "PetroChina - VitaGold Unleaded (Standard Petrol)",
@@ -601,7 +601,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -610,7 +610,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -619,7 +619,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -628,7 +628,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -637,7 +637,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -646,7 +646,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -655,7 +655,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -676,7 +676,7 @@
           }
         ],
         "value": 11.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -697,7 +697,7 @@
           }
         ],
         "value": 11.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -718,7 +718,7 @@
           }
         ],
         "value": 11.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -739,7 +739,7 @@
           }
         ],
         "value": 11.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -755,7 +755,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -771,7 +771,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -787,7 +787,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -803,7 +803,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -819,7 +819,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -835,7 +835,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -851,7 +851,7 @@
           }
         ],
         "discount_every_unit": 9.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -872,7 +872,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -893,7 +893,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -914,7 +914,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -935,7 +935,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -956,7 +956,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -977,7 +977,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -998,7 +998,7 @@
           "Wednesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -1007,7 +1007,7 @@
     "name": "PetroChina - Futuro Premium (Premium Petrol)",
     "company": "PetroChina",
     "product": "Futuro Premium (Premium Petrol)",
-    "price": 29.99,
+    "price": 31.09,
     "discounts": [
       {
         "product": "PetroChina - Futuro Premium (Premium Petrol)",
@@ -1015,7 +1015,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.5,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1024,7 +1024,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.5,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1033,7 +1033,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.5,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1042,7 +1042,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1051,7 +1051,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1060,7 +1060,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1069,7 +1069,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1085,7 +1085,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1101,7 +1101,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1117,7 +1117,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1133,7 +1133,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1149,7 +1149,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1165,7 +1165,7 @@
           }
         ],
         "discount_every_unit": 11.5,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1181,7 +1181,7 @@
           }
         ],
         "discount_every_unit": 10.5,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1202,7 +1202,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1223,7 +1223,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1244,7 +1244,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1265,7 +1265,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1286,7 +1286,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1307,7 +1307,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1328,7 +1328,7 @@
           "Tuesday": 1,
           "Thursday": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -1337,15 +1337,15 @@
     "name": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
     "company": "Caltex",
     "product": "Gold with Techron\u00ae (Standard Petrol)",
-    "price": 30.49,
+    "price": 31.09,
     "discounts": [
       {
         "product": "Caltex - Gold with Techron\u00ae (Standard Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 8.2,
-        "date": "2026-03-06 00:00:00",
+        "value": 0.9,
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1354,7 +1354,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.2,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1363,7 +1363,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1372,7 +1372,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1381,7 +1381,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1390,7 +1390,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.2,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1399,7 +1399,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1415,7 +1415,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1431,7 +1431,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1447,7 +1447,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1463,7 +1463,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1479,7 +1479,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1495,7 +1495,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1511,7 +1511,7 @@
           "litre": 2,
           "point": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -1520,15 +1520,15 @@
     "name": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
     "company": "Caltex",
     "product": "Platinum with Techron\u00ae (Premium Petrol)",
-    "price": 32.29,
+    "price": 32.89,
     "discounts": [
       {
         "product": "Caltex - Platinum with Techron\u00ae (Premium Petrol)",
         "name": "Walk-in Discount",
         "model": "discount",
         "criteria": [],
-        "value": 10.0,
-        "date": "2026-03-06 00:00:00",
+        "value": 0.9,
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1537,7 +1537,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1546,7 +1546,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1555,7 +1555,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1564,7 +1564,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1573,7 +1573,7 @@
         "model": "discount",
         "criteria": [],
         "value": 10.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1582,7 +1582,7 @@
         "model": "discount",
         "criteria": [],
         "value": 0.9,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1598,7 +1598,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1614,7 +1614,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1630,7 +1630,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1646,7 +1646,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1662,7 +1662,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1678,7 +1678,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1694,7 +1694,7 @@
           "litre": 1,
           "point": 1
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -1703,7 +1703,7 @@
     "name": "Esso - Synergy Extra petrol (Standard Petrol)",
     "company": "Esso",
     "product": "Synergy Extra petrol (Standard Petrol)",
-    "price": 30.49,
+    "price": 31.09,
     "discounts": [
       {
         "product": "Esso - Synergy Extra petrol (Standard Petrol)",
@@ -1711,7 +1711,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1720,7 +1720,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1729,7 +1729,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1738,7 +1738,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1747,7 +1747,7 @@
         "model": "discount",
         "criteria": [],
         "value": 8.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1756,7 +1756,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1765,7 +1765,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1781,7 +1781,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1797,7 +1797,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1813,7 +1813,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1829,7 +1829,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1845,7 +1845,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1861,7 +1861,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1877,7 +1877,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1890,7 +1890,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -1903,7 +1903,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -1916,7 +1916,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -1929,7 +1929,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -1942,7 +1942,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -1955,7 +1955,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -1968,7 +1968,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -1992,7 +1992,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2016,7 +2016,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2040,7 +2040,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2064,7 +2064,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2088,7 +2088,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2112,7 +2112,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2136,7 +2136,7 @@
             "Friday": 10
           }
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -2145,7 +2145,7 @@
     "name": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
     "company": "Esso",
     "product": "Synergy Supreme+ premium petrol (Premium Petrol)",
-    "price": 32.29,
+    "price": 32.89,
     "discounts": [
       {
         "product": "Esso - Synergy Supreme+ premium petrol (Premium Petrol)",
@@ -2153,7 +2153,7 @@
         "model": "discount",
         "criteria": [],
         "value": 9.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2162,7 +2162,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2171,7 +2171,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2180,7 +2180,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2189,7 +2189,7 @@
         "model": "discount",
         "criteria": [],
         "value": 9.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2198,7 +2198,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2207,7 +2207,7 @@
         "model": "discount",
         "criteria": [],
         "value": 1.6,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2223,7 +2223,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2239,7 +2239,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2255,7 +2255,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2271,7 +2271,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2287,7 +2287,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2303,7 +2303,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2319,7 +2319,7 @@
           }
         ],
         "value": 100.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2332,7 +2332,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2345,7 +2345,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2358,7 +2358,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2371,7 +2371,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2384,7 +2384,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2397,7 +2397,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2410,7 +2410,7 @@
           }
         ],
         "discount_every_unit": 0.4,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2434,7 +2434,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2458,7 +2458,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2482,7 +2482,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2506,7 +2506,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2530,7 +2530,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2554,7 +2554,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2578,7 +2578,7 @@
             "Friday": 15
           }
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2586,7 +2586,7 @@
         "name": "Other Promotion",
         "model": "upgrades",
         "criteria": [],
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -2595,7 +2595,7 @@
     "name": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
     "company": "Shell",
     "product": "Shell FuelSave Unleaded (Standard Petrol)",
-    "price": 30.59,
+    "price": 31.09,
     "discounts": [
       {
         "product": "Shell - Shell FuelSave Unleaded (Standard Petrol)",
@@ -2603,7 +2603,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2612,7 +2612,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2621,7 +2621,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2630,7 +2630,7 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2639,7 +2639,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2648,7 +2648,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2657,7 +2657,7 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2681,7 +2681,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2705,7 +2705,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2729,7 +2729,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2753,7 +2753,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2777,7 +2777,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2801,7 +2801,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2825,7 +2825,7 @@
             "Sunday": 10
           }
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]
@@ -2834,7 +2834,7 @@
     "name": "Shell - Shell V-Power Racing (Premium Petrol)",
     "company": "Shell",
     "product": "Shell V-Power Racing (Premium Petrol)",
-    "price": 32.39,
+    "price": 32.89,
     "discounts": [
       {
         "product": "Shell - Shell V-Power Racing (Premium Petrol)",
@@ -2842,7 +2842,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2851,7 +2851,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2860,7 +2860,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2869,7 +2869,7 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -2878,7 +2878,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -2887,7 +2887,7 @@
         "model": "discount",
         "criteria": [],
         "value": 7.0,
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -2896,7 +2896,7 @@
         "model": "discount",
         "criteria": [],
         "value": 5.0,
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       },
       {
@@ -2920,7 +2920,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-06 00:00:00",
+        "date": "2026-03-13 00:00:00",
         "date_of_week": "Fri"
       },
       {
@@ -2944,7 +2944,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-07 00:00:00",
+        "date": "2026-03-14 00:00:00",
         "date_of_week": "Sat"
       },
       {
@@ -2968,7 +2968,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-08 00:00:00",
+        "date": "2026-03-15 00:00:00",
         "date_of_week": "Sun"
       },
       {
@@ -2992,7 +2992,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-09 00:00:00",
+        "date": "2026-03-16 00:00:00",
         "date_of_week": "Mon"
       },
       {
@@ -3016,7 +3016,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-10 00:00:00",
+        "date": "2026-03-17 00:00:00",
         "date_of_week": "Tue"
       },
       {
@@ -3040,7 +3040,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-11 00:00:00",
+        "date": "2026-03-18 00:00:00",
         "date_of_week": "Wed"
       },
       {
@@ -3064,7 +3064,7 @@
             "Sunday": 15
           }
         },
-        "date": "2026-03-12 00:00:00",
+        "date": "2026-03-19 00:00:00",
         "date_of_week": "Thu"
       }
     ]

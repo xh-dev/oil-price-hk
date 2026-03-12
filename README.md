@@ -1,7 +1,7 @@
 # oil-price-hk
 
 <!-- last_update_time start -->
-Last updatetime: 2026-03-06 (Fri)
+Last updatetime: 2026-03-13 (Fri)
 <!-- last_update_time end -->
 
 Daily oil price info from hong kong consumer council
@@ -12,38 +12,38 @@ Daily oil price info from hong kong consumer council
 ## Official Oil Price
 | company | product | price|
 | --- | --- | ---|
-| Sinopec | SINO Power (Standard Petrol) | $29.99 / L|
-| Sinopec | SINO X Power (Premium Petrol) | $31.79 / L|
-| PetroChina | VitaGold Unleaded (Standard Petrol) | $29.99 / L|
-| PetroChina | Futuro Premium (Premium Petrol) | $29.99 / L|
-| Caltex | Gold with Techron® (Standard Petrol) | $30.49 / L|
-| Caltex | Platinum with Techron® (Premium Petrol) | $32.29 / L|
-| Esso | Synergy Extra petrol (Standard Petrol) | $30.49 / L|
-| Esso | Synergy Supreme+ premium petrol (Premium Petrol) | $32.29 / L|
-| Shell | Shell FuelSave Unleaded (Standard Petrol) | $30.59 / L|
-| Shell | Shell V-Power Racing (Premium Petrol) | $32.39 / L|
+| Sinopec | SINO Power (Standard Petrol) | $31.09 / L|
+| Sinopec | SINO X Power (Premium Petrol) | $32.89 / L|
+| PetroChina | VitaGold Unleaded (Standard Petrol) | $31.09 / L|
+| PetroChina | Futuro Premium (Premium Petrol) | $31.09 / L|
+| Caltex | Gold with Techron® (Standard Petrol) | $31.09 / L|
+| Caltex | Platinum with Techron® (Premium Petrol) | $32.89 / L|
+| Esso | Synergy Extra petrol (Standard Petrol) | $31.09 / L|
+| Esso | Synergy Supreme+ premium petrol (Premium Petrol) | $32.89 / L|
+| Shell | Shell FuelSave Unleaded (Standard Petrol) | $31.09 / L|
+| Shell | Shell V-Power Racing (Premium Petrol) | $32.89 / L|
 
 <!-- overall_price_info end -->
 
 <!-- today_s_info start -->
-## 2026-03-06 (Fri)
+## 2026-03-13 (Fri)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - Futuro Premium (Premium Petrol) | 10.50 | any|
-| Caltex - Platinum with Techron® (Premium Petrol) | 10.00 | any|
 | Esso - Synergy Supreme+ premium petrol (Premium Petrol) | 9.00 | any|
 | Sinopec - SINO X Power (Premium Petrol) | 8.87 | any|
-| Caltex - Gold with Techron® (Standard Petrol) | 8.20 | any|
 | Esso - Synergy Extra petrol (Standard Petrol) | 8.00 | any|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 7.00 | any|
 | Shell - Shell FuelSave Unleaded (Standard Petrol) | 7.00 | any|
 | Shell - Shell V-Power Racing (Premium Petrol) | 7.00 | any|
 | Sinopec - SINO Power (Standard Petrol) | 6.00 | any|
+| Caltex - Gold with Techron® (Standard Petrol) | 0.90 | any|
+| Caltex - Platinum with Techron® (Premium Petrol) | 0.90 | any|
 
 <!-- today_s_info end -->
 
 <!-- tomorrow_s_info start -->
-## 2026-03-07 (Sat)
+## 2026-03-14 (Sat)
 | product | value | locations|
 | --- | --- | ---|
 | Sinopec - SINO X Power (Premium Petrol) | 10.95 | any|
@@ -60,7 +60,7 @@ Daily oil price info from hong kong consumer council
 <!-- tomorrow_s_info end -->
 
 <!-- overmorrow_s_info start -->
-## 2026-03-08 (Sun)
+## 2026-03-15 (Sun)
 | product | value | locations|
 | --- | --- | ---|
 | Sinopec - SINO X Power (Premium Petrol) | 10.95 | any|
@@ -77,7 +77,7 @@ Daily oil price info from hong kong consumer council
 <!-- overmorrow_s_info end -->
 
 <!-- fourth_s_info start -->
-## 2026-03-09 (Mon)
+## 2026-03-16 (Mon)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Lai Chi Kok,Kam Tin,Fanling|
@@ -95,7 +95,7 @@ Daily oil price info from hong kong consumer council
 <!-- fourth_s_info end -->
 
 <!-- fifth_s_info start -->
-## 2026-03-10 (Tue)
+## 2026-03-17 (Tue)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Lai Chi Kok,Kam Tin,Fanling|
@@ -113,7 +113,7 @@ Daily oil price info from hong kong consumer council
 <!-- fifth_s_info end -->
 
 <!-- sixth_s_info start -->
-## 2026-03-11 (Wed)
+## 2026-03-18 (Wed)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Lai Chi Kok,Kam Tin,Fanling|
@@ -131,7 +131,7 @@ Daily oil price info from hong kong consumer council
 <!-- sixth_s_info end -->
 
 <!-- seventh_s_info start -->
-## 2026-03-12 (Thu)
+## 2026-03-19 (Thu)
 | product | value | locations|
 | --- | --- | ---|
 | PetroChina - VitaGold Unleaded (Standard Petrol) | 11.00 | Kowloon Tong,Lai Chi Kok,Kam Tin,Fanling|
